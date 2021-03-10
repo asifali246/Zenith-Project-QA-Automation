@@ -1,0 +1,21 @@
+Feature: FE - Add candidate to Job - Transition to Longlist
+
+  Scenario: Successful Login with Valid Credentials
+    Given User launch Chrome browser
+
+    When User opens URL "https://sit.digitalzenith.io/"
+    And User enters their Username as "jjonzz@digitalzenith.io"
+    Then User enters their Password as "MartianM@nhunt3r"
+    When User clicks on the SignIn button
+
+    And User click on the Menu button as "menu"
+
+    Then User click on My Jobs link
+    When User clicks on Job link item as "text"
+
+    And User clicks on Job Checkbox
+
+    Then User clicks on Add to List or Job
+    When User clicks on Add to Job
+    And User selects a Job link item
+    Then User clicks ADD
