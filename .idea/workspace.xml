@@ -4,49 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6a3973b-549d-40f6-800f-2811fc1b8904" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Driver/chromedriver_v90.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Driver/chromedriver_v91.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output.html" afterDir="false" />
+    <list default="true" id="f6a3973b-549d-40f6-800f-2811fc1b8904" name="Default Changelist" comment="Fixed the double browser opening.&#10;also fixed the report produced, just had missing file extension&#10;Updated chrome driver to v90">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CreateCadidateDemo-main-main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CreateCadidateDemo-main-main.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Driver/Chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PageObjects/Working/CandidatePersonalUpdateAddressPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PageObjects/Working/CandidatePersonalUpdateAddressPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions/Steps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testRunner/testRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testRunner/testRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire/surefire1129547159706627033tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire/surefire7344963500456636657tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire/surefire8442245781844780166tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire/surefire_01362938404269685442tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire/surefire_05655015482201733886tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire/surefire_06250335827499365481tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire/surefirebooter1330867936376455912.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire/surefirebooter6228577099601311665.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire/surefirebooter8558884048674471979.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjects/Sprint29/FEAndBETransitionToCVSentStageSingleOrMultiPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjects/Sprint29/FEAndBETransitionToCVSentStageSingleOrMultiPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/CandidateEditCandidateListPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/CandidateEditCandidateListPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/CandidatePersonalUpdateAddressPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/CandidatePersonalUpdateAddressPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/CandidateRecordModalsMandatoryLocationFieldPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/CandidateRecordModalsMandatoryLocationFieldPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/CandidateRemoveLinkClientContactPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/CandidateRemoveLinkClientContactPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/ClientAddAlertPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/ClientAddAlertPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/ClientInformationMiddleplusBtnAddNewPositionPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/ClientInformationMiddleplusBtnAddNewPositionPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/ClientPlusButtonTopAddClientToListNewList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/ClientPlusButtonTopAddClientToListNewList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/ClientPlusButtonTopAddClientToListPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/ClientPlusButtonTopAddClientToListPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/CreateCandidatesPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/CreateCandidatesPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/CreateNewClientContactPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/CreateNewClientContactPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/CreateNewJobPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/CreateNewJobPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/FEChangeStageDropdownPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/FEChangeStageDropdownPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/FEOrganisationCreateActivityActivityModalPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/FEOrganisationCreateActivityActivityModalPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/JobsAddAlertPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/JobsAddAlertPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/OrganisationAddToListNewListPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/OrganisationAddToListNewListPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/OrganisationAddToListPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/OrganisationAddToListPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/OrganisationLinkedJobsSubsidiaryOrganisationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/OrganisationLinkedJobsSubsidiaryOrganisationPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/OrganisationLocationPlusBtnMiddleAddLocationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/OrganisationLocationPlusBtnMiddleAddLocationPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/OrganisationPlusTopButtonAddAlertToRecord.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/OrganisationPlusTopButtonAddAlertToRecord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/PipelineManagementEmptyStatesforGridPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjects/Working/PipelineManagementEmptyStatesforGridPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinitions/Steps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinitions/Steps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testRunner/TestRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testRunner/TestRun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CreateCandidateDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid30640.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/replay_pid30640.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +33,14 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="fb31290b-c437-4d2d-8e1b-20d1bfa3ae2a" />
+        <option name="url" value="git@github.com:lungashibani/Zenith-Project-QA-Automation.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -252,6 +226,14 @@
       <workItem from="1615351477208" duration="7369000" />
       <workItem from="1615364293188" duration="5539000" />
     </task>
+    <task id="LOCAL-00001" summary="Fixed the double browser opening.&#10;also fixed the report produced, just had missing file extension&#10;Updated chrome driver to v90">
+      <created>1619601129011</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619601129011</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,5 +253,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Fixed the double browser opening.&#10;also fixed the report produced, just had missing file extension&#10;Updated chrome driver to v90" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed the double browser opening.&#10;also fixed the report produced, just had missing file extension&#10;Updated chrome driver to v90" />
   </component>
 </project>
