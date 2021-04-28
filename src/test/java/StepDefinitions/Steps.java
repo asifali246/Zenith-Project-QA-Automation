@@ -98,13 +98,13 @@ public class Steps {
     @After
     public void doSomethingAfter(Scenario scenario) {
         if (driver != null) {
-            //driver.quit();
+            driver.quit();
         }
     }
 
     @Given("User launch Chrome browser")
     public void user_launch_chrome_browser() {
-        System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "//Driver/Chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "//Driver/chromedriver_v90.exe");
         driver = new ChromeDriver();
         driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
         driver.manage().timeouts().setScriptTimeout(30, TimeUnit.SECONDS);
