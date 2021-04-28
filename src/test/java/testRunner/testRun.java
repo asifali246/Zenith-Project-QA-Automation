@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
         (
                 //features = ".//Features/Login.feature",
                 //glue = "stepDefinitions",
-                features = ".//Features//Working/LoginNew.feature",
+                features = ".//Features//Working",
                 glue = "StepDefinitions",
                 dryRun = false,
                 monochrome = true,
